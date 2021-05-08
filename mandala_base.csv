@@ -29,3 +29,16 @@ ManSus,Manejo Sustenável,Solo
 QualSolo,Qualidade do Solo,Solo
 UsoEfic,Uso Eficiente,SegHid
 Esc,Escassez,SegHid
+IncRest,Incentivos de Restauração,AmbInt
+PraCons,Práticas de Conservação,AmbInt
+EflLiq,Efluentes Líquidos,CapProt
+ResSol,Resíduos Sólidos,CapProt
+DreUrbAgr,Drenagem Urbana e Agrícola,CapProt
+UsoUrb,Uso Urbano,CapSup
+UsoRur,Uso Rural,CapSup
+
+EduAmbAgr,Educação Ambiental e Agrícola,Edu
+QuaPolAgr,Qualificação da População Agrícola,Edu
+SegAlim,Segurança Alimentar,SauHum
+QualVida,Qualidade de Vida,SauHum
+
