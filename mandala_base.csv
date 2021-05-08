@@ -1,14 +1,14 @@
 ids,labels,parents
 ISHA,ISHA,
-ISHA-Construído,Construído,ISHA
-ISHA-Natural,Natural,ISHA
-ISHA-Social,Social,ISHA
-Social-Poder,Poder Social,ISHA-Social
-Social-Relaçãoes Humanas Integradas,Relaçãoes Humanas Integradas,ISHA-Social
-Social-Capacidade de Governança Instituicional,Capacidade de Governança Instituicional,ISHA-Social
-Social-Sistemas de Informação,Sistemas de Informação,ISHA-Social
-Natural-Solo,Solo,ISHA-Natural
-Natural-Segurança Hídrica,Segurança Hídrica,ISHA-Natural
-Natural-Ambiente Integrador,Ambiente Integrador,ISHA-Natural
-Construído-Capacidade de Proteção,Capacidade de Proteção,ISHA-Construído
-Construído-Capacidade de Suprimento,Capacidade de Suprimento,ISHA-Construído
+ISHAConst,Construído,ISHA
+ISHANat,Natural,ISHA
+ISHASoc,Social,ISHA
+SocPodSoc,Poder Social,ISHASoc
+SocRelHumInt,Relaçãoes Humanas Integradas,ISHASoc
+SocCapGovIns,Capacidade de Governança Instituicional,ISHASoc
+SocSisInf,Sistemas de Informação,ISHASoc
+NatSolo,Solo,ISHANat
+NatSegHid,Segurança Hídrica,ISHANat
+NatAmbInt,Ambiente Integrador,ISHANat
+ConstCapProt,Capacidade de Proteção,ISHAConst
+ConstCapSup,Capacidade de Suprimento,ISHAConst
