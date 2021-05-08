@@ -1,0 +1,8 @@
+ids,labels,parents
+ISHA,ISHA,
+ISHA-Construído,Construído,ISHA
+ISHA-Natural,Natural,ISHA
+ISHA-Social,Social,ISHA
+Social-Poder Social,Poder Social,Social
+Natural-Solo,Solo,Natural
+Construído-Capacidade de Suprimento,Capacidade de Suprimento,Construído
