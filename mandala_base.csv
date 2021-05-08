@@ -1,14 +1,27 @@
 ids,labels,parents
+
 ISHA,ISHA,
-ISHAConst,Construído,ISHA
-ISHANat,Natural,ISHA
-ISHASoc,Social,ISHA
-SocPodSoc,Poder Social,ISHASoc
-SocRelHumInt,Relaçãoes Humanas Integradas,ISHASoc
-SocCapGovIns,Capacidade de Governança Instituicional,ISHASoc
-SocSisInf,Sistemas de Informação,ISHASoc
-NatSolo,Solo,ISHANat
-NatSegHid,Segurança Hídrica,ISHANat
-NatAmbInt,Ambiente Integrador,ISHANat
-ConstCapProt,Capacidade de Proteção,ISHAConst
-ConstCapSup,Capacidade de Suprimento,ISHAConst
+
+Const,Construído,ISHA
+Nat,Natural,ISHA
+Soc,Social,ISHA
+
+PodSoc,Poder Social,Soc
+RelHumInt,Relaçãoes Humanas Integradas,oc
+CapGovIns,Capacidade de Governança Instituicional,Soc
+SisInf,Sistemas de Informação,Soc
+Solo,Solo,ISHANat
+SegHid,Segurança Hídrica,Nat
+AmbInt,Ambiente Integrador,Nat
+CapProt,Capacidade de Proteção,Const
+CapSup,Capacidade de Suprimento,Const
+
+Edu,Educação,PodSoc
+SauHum,Saúde Humana,PodSoc
+Ren,Renda,PodSoc
+PartGesRecHid,Participação na Gestão de Recursos Hídricos,RelHumInt
+IntAgrPesq,Integração do Agricultor com Pesquisas,RelHumInt
+DesIns,Desenvolvimeto Institucional,CapGovIns
+ResCon,Resolução de Conflitos,CapGovIns
+AceInf,Acesso à Informação,SisInf
+GerInf,Geração de Informação,SisInf
