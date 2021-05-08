@@ -1,4 +1,5 @@
 ids,labels,parents
-Construido,Construido,
-Natural,Natural,
-Social,Social
+ISHA,ISHA,
+ISHA-Construido,Construido,ISHA
+ISHA-Natural,Natural,ISHA
+ISHA-Social,Social,ISHA
