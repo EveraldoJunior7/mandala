@@ -7,10 +7,10 @@ Nat,Natural,ISHA
 Soc,Social,ISHA
 
 PodSoc,Poder Social,Soc
-RelHumInt,Relaçãoes Humanas Integradas,oc
+RelHumInt,Relaçãoes Humanas Integradas,Soc
 CapGovIns,Capacidade de Governança Instituicional,Soc
 SisInf,Sistemas de Informação,Soc
-Solo,Solo,ISHANat
+Solo,Solo,Nat
 SegHid,Segurança Hídrica,Nat
 AmbInt,Ambiente Integrador,Nat
 CapProt,Capacidade de Proteção,Const
