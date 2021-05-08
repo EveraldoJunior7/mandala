@@ -3,12 +3,6 @@ ISHA,ISHA,
 ISHA-Construído,Construído,ISHA
 ISHA-Natural,Natural,ISHA
 ISHA-Social,Social,ISHA
-Social-Poder,Poder Social,Social
-Social-Relacao,Relaçãoes Humanas Integradas,Social
-Social-Capacidade,Capacidade de Governança Instituicional,Social
-Social-Sistemas,Sistemas de Informação,Social
+Social-Poder Social,Poder Social,Social
 Natural-Solo,Solo,Natural
-Natural-Segurança,Segurança Hídrica,Natural
-Natural-Ambiente,Ambiente Integrador,Natural
-Construído-Proteção,Capacidade de Proteção,Construído
-Construído-Suprimento,Capacidade de Suprimento,Construído
+Construído-Capacidade de Suprimento,Capacidade de Suprimento,Construído
